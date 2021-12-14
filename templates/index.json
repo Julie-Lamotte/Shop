@@ -9,10 +9,18 @@
             "heading": "DEF'INOV GROUP",
             "heading_size": "medium"
           }
+        },
+        "62ec01e2-2300-4385-9e18-9ae3465fd823": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "62ec01e2-2300-4385-9e18-9ae3465fd823"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/reunion_88c50993-2bfd-4d7b-8ba3-9dd421ce2f74.jpg",
