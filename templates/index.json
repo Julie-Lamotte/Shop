@@ -142,7 +142,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "9",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -151,7 +151,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "15",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -160,7 +160,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "15",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -173,7 +173,7 @@
         "column3"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
