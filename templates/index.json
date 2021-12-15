@@ -98,12 +98,12 @@
         "column3"
       ],
       "settings": {
-        "title": "",
+        "title": "DEF'INOV EN CHIFFRES",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
