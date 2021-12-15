@@ -36,6 +36,22 @@
         "show_text_below": true
       }
     },
+    "163955716352d88a1e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "video": {
       "type": "video",
       "settings": {
@@ -95,6 +111,7 @@
   },
   "order": [
     "image_banner",
+    "163955716352d88a1e",
     "video",
     "multi_column"
   ]
