@@ -36,26 +36,26 @@
               "menu": "footer"
             }
           },
-          "footer-1": {
-            "type": "text",
+          "891af7c0-3bd5-4c55-b0b3-545e54ea37af": {
+            "type": "link_list",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "heading": "Quick links",
+              "menu": "pied-de-page"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "891af7c0-3bd5-4c55-b0b3-545e54ea37af"
         ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
-          "payment_enable": true
+          "newsletter_heading": "ABONNEZ-VOUS A LA NEWSLETTERS",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false
         }
       }
     },
